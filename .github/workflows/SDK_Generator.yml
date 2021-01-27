@@ -17,7 +17,7 @@ jobs:
       - name: Swagger Codegen
         uses: bjerkio/swagger-codegen-action@v1
         with:
-          args: generate -l go -o ./teft  
+          args: -l go  
           
           
 
