@@ -16,8 +16,6 @@ jobs:
           echo test, and deploy your project.
       - name: Swagger Codegen
         uses: bjerkio/swagger-codegen-action@v1
-        with:
-          args: -l java
           
           
 
