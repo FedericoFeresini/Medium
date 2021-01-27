@@ -1,4 +1,4 @@
-name: CI
+name: SDK_Generator
 
 on: [workflow_dispatch]
 
