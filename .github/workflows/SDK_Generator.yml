@@ -17,5 +17,7 @@ jobs:
       - name: Swagger Codegen
         uses: bjerkio/swagger-codegen-action@v1
         with:
-          language: java
-          job-name: abc
+          args: -l java
+          
+          
+
