@@ -15,8 +15,7 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           echo ${PWD}
-      - name: Swagger Codegen
-        uses: docker://swagger-codegen-cli:latest
+
           
           
 
